@@ -1,4 +1,4 @@
 ---
 Blog name: My git blog
-date: 2-22-12-06
+date: 2022-12-06
 ---

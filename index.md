@@ -1,5 +1,5 @@
 ---
-Blog name: Welcome to my blog- Test
+Blog name: Welcome to my blog-Test
 ---
 
 author: rajith

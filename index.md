@@ -1,5 +1,5 @@
 ---
-title1: Welcome to my blog
+Blog name: Welcome to my blog- Test
 ---
 
 author: rajith

@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title1: Welcome to my blog
 ---
 
 author: rajith
